@@ -427,11 +427,11 @@ def grLexIPA(myString):
     aString = aString.replace("sg", "zg")
     aString = aString.replace("sr", "zr")
 
-    aString = aString.replace("nk", "ŋk")
+    aString = aString.replace("nk", "ŋg")
     aString = aString.replace("ng", "ŋg")
 
-    aString = aString.replace("nc", "ŋc")
-    aString = aString.replace("nc", "ŋc")
+    aString = aString.replace("nc", "ŋɉ")
+    aString = aString.replace("nc", "ŋɉ")
 
     aString = aString.replace("mf", "ɱf")
     aString = aString.replace("mv", "ɱv")

@@ -13,6 +13,10 @@ It also includes an implementation of IPAGreek which converts text in Standard M
 - to create lists of words in reverse order for dictionaries.
 - to analyze text using the implemented regular expressions engine.
 
+# Bug Fixes
+- 08-09-2019
+Correcting the phonological transcription of the words such as έγκαιρος.
+
 
 # Using NLP Editor
 First clone the repository with ssh
